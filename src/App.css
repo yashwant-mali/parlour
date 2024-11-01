@@ -1,0 +1,34 @@
+.selfNav{
+  background-color: rgb(101, 7, 189);
+}
+
+.navLink{
+  color: white;
+}
+
+.padMar{
+padding: 5px;
+margin: 10px;
+
+}
+
+.seviceDropdown{
+  width: 370px;
+  padding: 5px;
+  margin: 10px; 
+}
+
+.appSubmit{
+  display: flex;
+  padding: 5px;
+  margin-top: 15px;
+}
+
+.BookedMsg{
+ background-color: rgb(134, 247, 187);
+ color: black;
+ margin-top: 20px; 
+ border-radius:5px;
+ /* height: 50px; */
+ 
+}
